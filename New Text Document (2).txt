@@ -1,0 +1,14 @@
+<html> 
+<head>
+<title>bitcoin</html>
+</head>
+<style>
+body{background-image:url(bi.jpg);
+     background-size:cover;
+     background-attachment:fixed;
+}
+</STYLE>
+
+
+
+</html>
